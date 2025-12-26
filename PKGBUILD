@@ -2,7 +2,7 @@
 
 pkgname=yt-dlp-config
 pkgver=20251226
-pkgrel=1
+pkgrel=2
 pkgdesc="System-wide yt-dlp config forcing Node.js JS runtime"
 arch=('any')
 depends=('yt-dlp' 'nodejs')
