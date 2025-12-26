@@ -1,7 +1,7 @@
 # Maintainer: Serhii Hordiienko <phrippy2@gmail.com>
 
 pkgname=yt-dlp-config
-pkgver=2
+pkgver=20251226
 pkgrel=1
 pkgdesc="System-wide yt-dlp config forcing Node.js JS runtime"
 arch=('any')
