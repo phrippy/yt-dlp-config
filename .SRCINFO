@@ -1,6 +1,6 @@
 pkgbase = yt-dlp-config
 	pkgdesc = System-wide yt-dlp config forcing Node.js JS runtime
-	pkgver = 1
+	pkgver = 2
 	pkgrel = 1
 	url = https://github.com/yt-dlp/yt-dlp
 	arch = any
