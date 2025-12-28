@@ -1,7 +1,7 @@
 pkgbase = yt-dlp-config
 	pkgdesc = System-wide yt-dlp config forcing Node.js JS runtime
-	pkgver = 20251226
-	pkgrel = 2
+	pkgver = 20251228
+	pkgrel = 1
 	url = https://github.com/yt-dlp/yt-dlp
 	arch = any
 	license = custom
@@ -9,6 +9,6 @@ pkgbase = yt-dlp-config
 	depends = nodejs
 	backup = etc/yt-dlp/config
 	source = config
-	sha256sums = 28fbc6f470f8d8d340ff29a2623faf1403c5bb426ed80e7c64e765b737522680
+	sha256sums = 6e65e2ea21997faa1bb886bf019a1f2a6f978372748ccad009f0f31de0e7816a
 
 pkgname = yt-dlp-config

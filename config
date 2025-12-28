@@ -1,1 +1,2 @@
 --js-runtime node
+--remote-components ejs:github
